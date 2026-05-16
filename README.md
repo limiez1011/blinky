@@ -11,7 +11,11 @@ The NE555 is in AStable mode which creates a PWM signal that feeds into the CD40
 - 2x Capacitors
 - 2x Resistors
 - 10x LED's
-<img width="2144" height="1220" alt="image" src="https://github.com/user-attachments/assets/2e7f4de1-5ad6-4da9-b7ce-53ba9820d7cc" />
+
+## Photos
+
+<img width="1821" height="1163" alt="image" src="https://github.com/user-attachments/assets/d7c25726-66b3-42b1-a951-63f9f9437b6b" />
+
 <img width="1347" height="998" alt="image" src="https://github.com/user-attachments/assets/42a80aee-dbaf-4f7a-bb68-184b5803acd1" />
 
 
